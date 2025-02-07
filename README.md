@@ -1,0 +1,2 @@
+#My portfolio
+Kamil Pilarski, młodszy specjalista programista embedded. Specjalizuje się w oprogramowaniu interfejsów komunikacji UART, I2C, SPI, BLE. Posiada doświadczenie w pisaniu aplikacji w językach wysokiego poziomu takich jak C#, Python czy Dart. Realizator rozwiązań dla projektów badawczych.
