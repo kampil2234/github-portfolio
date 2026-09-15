@@ -53,7 +53,9 @@ The project involved investigating undocumented communication protocols, analyzi
 ### Universal HMI System
 
 Development of an embedded control and user-interface system based on Raspberry Pi for three devices. 
+
 The main goal of the project was to simplify the existing production and documentation processes and modernize the user interface (HMI).
+
 The project included hardware preparation, module communication, Flutter-based UI development, localization support, configuration handling, and integration of multiple measurement and control modules. 
 
 **Focus:** Raspberry Pi, Flutter, Dart, UART, TWI/I2C, embedded integration, UI/backend separation.
@@ -94,7 +96,7 @@ Many of the projects I have worked on involved technologies or components that w
 
 I have contributed to several scientific publications related to embedded systems, measurement devices, signal processing, and machine learning.
 
-See the [Publications](./Publications/) section for details and links to the published papers.
+See the [Publications](https://orcid.org/0009-0005-7489-3547) section for details and links to the published papers.
 
 ## Education
 
