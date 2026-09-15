@@ -1,1 +1,0 @@
-Portfolio based on Arun8072 project (https://github.com/Arun8072/MyPortfolio)
